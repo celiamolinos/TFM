@@ -1,0 +1,1 @@
+Los archivos Flu unificado, Malaria unificado y Nilo unificado con extensión .ipynb continen la unificación de diferentes conjuntos de datos relativos a registros médicos, datos climáticos y datos de población para el posterior entrenamiento y modelado de algoritmos de machine learning para la predicción de brotes de enfermedades infecciosas.
